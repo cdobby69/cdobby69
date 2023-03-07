@@ -26,6 +26,6 @@
 [![](https://img.shields.io/badge/-contact@cdobbystudios.uk-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:contact@cdobbystudios.uk)
 
 ### :zap: Github Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdobby69)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdobby69&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdobby69&layout=compact)](https://github.com/cdobby69/github-readme-stats)
