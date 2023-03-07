@@ -23,8 +23,7 @@
 
 #### 📫 Contact
 
-[![](https://img.shields.io/badge/-t.me/nguyenvancaoky-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/nguyenvancaoky)
-[![](https://img.shields.io/badge/-nguyenvancaoky@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:nguyenvancaoky@gmail.com)
+[![](https://img.shields.io/badge/-contact@cdobbystudios.uk-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:contact@cdobbystudios.uk)
 
 ### :zap: Github Stats
 
