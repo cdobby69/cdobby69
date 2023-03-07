@@ -27,11 +27,5 @@
 
 ### :zap: Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nguyenvancaokyfpt&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://raw.githubusercontent.com/nguyenvancaokyfpt/my-stats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/nguyenvancaokyfpt/my-stats/output/generated/languages.svg)
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nguyenvancaoky?theme=rule34" alt="Moe Counter" title="Moe Counter"></a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdobby69&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdobby69&layout=compact)](https://github.com/cdobby69/github-readme-stats)
