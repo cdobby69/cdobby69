@@ -1,6 +1,6 @@
-# Cdobby Studios
+# Charlie Dobson
 ## Working With Computers for 8 years👋
-### IGN: gusnhotcharlie9
+### IGN: cdobby9
 
 
 #### My Languages
